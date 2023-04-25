@@ -1,1 +1,3 @@
-# Making-Maps
+# Maps
+
+This repository includes reproducible R codes for different types of maps. The main motivation behind forming this repository is to store and share reproducible R codes for making cool maps. While the sources of codes stored in this repository vary, some are taken from the internet and customized a little bittle while others are written completely by myself, it might worth to look at the repository to learn how to make cool maps easily with R.
